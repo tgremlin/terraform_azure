@@ -2,3 +2,8 @@
 .terraform/plugins/windows_amd64/lock.json
 .terraform/plugins/windows_amd64/terraform-provider-azurerm_v2.0.0_x5.exe
 Certs/tmpb_1nptoj.pem
+secrets/tmpb_1nptoj.pem
+secrets/ubuntu_ssh
+secrets/ubuntu_ssh.ppk
+secrets/ubuntu_ssh.pub
+.terraform/plugins/windows_amd64/terraform-provider-azurerm_v2.12.0_x5.exe
